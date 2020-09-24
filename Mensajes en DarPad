@@ -1,0 +1,11 @@
+void main() 
+{
+  var number =2+1;
+  print('Hola soy Monica');
+  imprimir(number);
+}
+//funcion
+imprimir(int numero )
+{
+ print('El número es $numero');
+}
